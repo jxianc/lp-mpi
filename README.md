@@ -1,4 +1,4 @@
-# Label Propagation with MPI
+# Parallel Label Propagation with MPI
 
 ## What is this project?
 This is an implementation of parallel label propagation algorithm with MPI.
